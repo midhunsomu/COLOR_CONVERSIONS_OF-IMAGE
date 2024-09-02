@@ -156,45 +156,52 @@ cv2.destroyAllWindows()
 ```
 
 ## Output:
-i) Read and display the image
+## i) Read and display the image
 
-![DIP1](https://github.com/anu-varshini11/COLOR_CONVERSIONS_OF-IMAGE/assets/138969827/f051f44f-03da-4127-b049-8d4f9e6d8705)
+![1](https://github.com/user-attachments/assets/add525e4-e425-47fc-b6a0-8d2843ca4580)
 
-ii)Write the image
+## ii)Write the image
 
-![DIP2](https://github.com/anu-varshini11/COLOR_CONVERSIONS_OF-IMAGE/assets/138969827/83e02cc4-125c-4792-9d62-d41c5111e2d4)
+![10](https://github.com/user-attachments/assets/233e92d7-3743-49a9-9cd0-cf6af958a324)
 
-iii)Shape of the Image
 
-![DIP3](https://github.com/anu-varshini11/COLOR_CONVERSIONS_OF-IMAGE/assets/138969827/97df64c6-94a9-40cf-8924-8fdadeb2eaa7)
+## iii)Shape of the Image
 
-iv)Access rows and columns and cut portion of image
+![2](https://github.com/user-attachments/assets/7f91a0c0-c0c2-4ea7-91bc-8ee21c23dc6e)
 
-![DIP4](https://github.com/anu-varshini11/COLOR_CONVERSIONS_OF-IMAGE/assets/138969827/24ae6417-1e2c-4545-8c52-c80682510341)
 
-v)Paste portion of image
+## iv)Access rows and columns and cut portion of image
 
-![DIP5](https://github.com/anu-varshini11/COLOR_CONVERSIONS_OF-IMAGE/assets/138969827/32b1dda9-b21a-4a7c-88c8-c3e7a9e99a2c)
+![3](https://github.com/user-attachments/assets/d9d37f88-0763-4015-bbf1-dd82435d7a20)
 
-vi) BGR and RGB to HSV and GRAY
 
-![DIP6](https://github.com/anu-varshini11/COLOR_CONVERSIONS_OF-IMAGE/assets/138969827/a81ae75d-3f5b-45c4-b51c-7e3322fd606b)
+## v)Paste portion of image
 
-vii) HSV to RGB and BGR
+![4](https://github.com/user-attachments/assets/1a6deeb7-9ae0-4a9c-b7eb-d378fe972977)
 
-![DIP7](https://github.com/anu-varshini11/COLOR_CONVERSIONS_OF-IMAGE/assets/138969827/a2328b9a-0480-4f20-bb7b-4282bd7ec5fc)
+## vi) BGR and RGB to HSV and GRAY
 
-viii) RGB and BGR to YCrCb
+![5](https://github.com/user-attachments/assets/1c040764-1584-44c4-8414-169f6c3f166c)
 
-![DIP8](https://github.com/anu-varshini11/COLOR_CONVERSIONS_OF-IMAGE/assets/138969827/67fed05a-5cac-4702-afe8-a4873f8dbff2)
 
-ix) Split and merge RGB Image
+## vii) HSV to RGB and BGR
 
-![DIP9](https://github.com/anu-varshini11/COLOR_CONVERSIONS_OF-IMAGE/assets/138969827/15f866a7-b45a-4b12-b29d-8d65052bba41)
+![6](https://github.com/user-attachments/assets/cca06fb6-dacf-4620-ab2e-70e8912bc752)
 
-x) Split and merge HSV Image
 
-![DIP10](https://github.com/anu-varshini11/COLOR_CONVERSIONS_OF-IMAGE/assets/138969827/53f1f5ae-d41e-4e19-9318-a8b1b6dfcaaf)
+## viii) RGB and BGR to YCrCb
+
+![7](https://github.com/user-attachments/assets/e505c646-d03e-4154-b902-99f02e7909b7)
+
+
+## ix) Split and merge RGB Image
+
+![8](https://github.com/user-attachments/assets/b9ffd8fa-5142-4cda-9daa-1f65d825b6b1)
+
+
+## x) Split and merge HSV Image
+
+![9](https://github.com/user-attachments/assets/28ab34fe-2b11-4280-9259-5877229bea6d)
 
 
 ## Result:
