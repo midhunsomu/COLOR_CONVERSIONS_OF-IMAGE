@@ -73,7 +73,7 @@ img = cv2.imread('MIDHUN S.jpg', 0)
 resized_img = cv2.resize(img, None, fx=1, fy=1)
 for i in range(20, 100):
     for j in range(10, 50):
-        resized_img[i][j] = 255  # Set the pixel to white
+        resized_img[i][j] = 1  # Set the pixel to white
 cv2.imshow('212223240087', resized_img)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
@@ -86,7 +86,7 @@ img = cv2.imread('MIDHUN S.jpg', 0)
 resized_img = cv2.resize(img, None, fx=1, fy=1)
 copied_portion = resized_img[50:100, 100:150]
 resized_img[4:54, 100:150] = copied_portion
-cv2.imshow('212223240010', resized_img)
+cv2.imshow('212223240087', resized_img)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
